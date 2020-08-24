@@ -2,7 +2,7 @@
 
 ### Introdução
 
-Conforme foi solicitado no domento **Teste Pratico - Java-test-2020.pdf**, foi criado uma API REST para calcular distância entre um ponto latitude/longitude até os prestadores de serviço de uma determinada especialidade.
+Conforme foi solicitado no documento **Teste Pratico - Java-test-2020.pdf**, foi criado uma API REST para calcular distância entre um ponto latitude/longitude até os prestadores de serviço de uma determinada especialidade.
 
 A aplicação foi desenvolvida com os frameworks Spring Boot, Sprint REST, Spring Data, Maven e a biblioteca JSON.
 
